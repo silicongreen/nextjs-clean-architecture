@@ -7,7 +7,7 @@ export default withSentryConfig(nextConfig, {
   // For all available options, see:
   // https://github.com/getsentry/sentry-webpack-plugin#options
 
-  org: 'sentry-devrel',
+  org: 'ktdev',
   project: 'clean-arch',
 
   // An auth token is required for uploading source maps.
